@@ -3,3 +3,4 @@
 /ckpt/
 data/uber-file.jsonl
 data/uber-file-txt
+data/*.tfrecords
