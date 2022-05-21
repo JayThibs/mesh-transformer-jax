@@ -17,7 +17,7 @@
     "weight_decay": 0.1,
     "total_steps": 805,
     "tpu_size": 8,
-    "bucket": "riddles-bucket",
+    "bucket": "gpt-alignment",
     "model_dir": "alignment-finetune",
     "train_set": "alignment.train.index",
     "val_set": {},
