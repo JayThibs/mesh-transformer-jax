@@ -5,3 +5,4 @@ data/uber-file.jsonl
 data/uber-file-txt
 data/*.tfrecords
 data/.DS_Store
+*.jsonl
