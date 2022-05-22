@@ -8,10 +8,6 @@ conda:
 	conda create --name finetune-env python=3.8
 	echo "RUN: conda activate finetune-env"
 
-git:
-	git clone https://github.com/JayThibs/mesh-transformer-jax
-	cd mesh-transformer-jax/
-
 pip:
 	pip install --use-deprecated=legacy-resolver -r requirements.txt
 	pip install "jax[tpu]>=0.2.16" -f https://storage.googleapis.com/jax-releases/libtpu_releases.html
