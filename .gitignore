@@ -6,3 +6,5 @@ data/uber-file-txt
 data/*.tfrecords
 data/.DS_Store
 *.jsonl
+alignment-finetune_slim/*
+.DS_Store
