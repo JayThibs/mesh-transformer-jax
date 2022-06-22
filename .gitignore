@@ -8,3 +8,4 @@ data/.DS_Store
 *.jsonl
 alignment-finetune_slim/*
 .DS_Store
+data/alignment_texts_txts/*
