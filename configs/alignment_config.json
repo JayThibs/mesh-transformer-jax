@@ -24,8 +24,8 @@
     "eval_harness_tasks": [],
     "val_batches": 0,
     "val_every": 80000,
-    "ckpt_every": 805,
-    "keep_every": 805,
+    "ckpt_every": 1339,
+    "keep_every": 1339,
     "name": "alignment-scrape_model",
     "wandb_project": "mesh-transformer-jax",
     "comment": ""
